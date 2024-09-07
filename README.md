@@ -1,6 +1,6 @@
 # Hi there, I'm Harsha! 👋
 
-I'm a second-year undergraduate student pursuing a degree in Computer Science with a specialization in Data Science. 
+I'm a third-year undergraduate student pursuing a degree in Computer Science with a specialization in Data Science. 
 Passionate about leveraging data-driven insights to solve complex problems and drive innovation. 🫡😇
 
 ## About Me
@@ -15,6 +15,8 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 
 - 🚀 [Baleyg - Market Data Analyzer]: Developed a interactive Stock Market Dashboard to perform technical and fundamental analysis on stocks in real-time using streamlit & python.
 - 🌐 [DeepFlora]: As a team leader, I have effectively guided my team to develop a model that can classify various medicinal plants and retrieve their related data through a eb application
+- 📢 [Eduguide]: As team, leader, I have led my team to successfully develop a user-friendly Student Academic Guidance and Academic Assisstance Chatbot speciffically modelled to help students from various 
+                 backgrounds and regions of the country with it's features like speech recognition, multi-language support and extensive custom knowledgebase.
 
 ## Skills
 
@@ -22,10 +24,14 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 - R
 - SQL
 - HTML
+- CSS
 - TensorFlow
 - Scikit-learn
 - Keras
 - OpenCV
+- Deep Learning
+- Computer Vision
+- MATLAB
 
 ## Languages
 
@@ -41,7 +47,8 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 
 ## Achievements
 
-- Remmibai Merit Scholarship Award 🧑‍🎓
+- Chancellor's Top Ranker Merit Scholarship Awardee 🧑‍🎓
+- Winner - Innovators Hackathon, SIST, Chennai
 - Elite NPTEL certificate in Python for Data Science 🏅
 - Career Path Certification - AI/ML Engineer (codeacademy) 💻
 - Multiple Udemy certificates and online course completions 📑
