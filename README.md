@@ -6,7 +6,7 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 ## About Me
 
 - 🎓 Currently studying Computer Science at [Sathyabama Institute of Science and Technology]
-- 🛠️ Proficient in Python, R, SQL, HTML, with experience in frameworks like Scikit-learn, TensorFlow, Keras, OpenCV
+- 🛠️ Proficient in Python, C, C++, R, SQL, HTML, with experience in frameworks like Scikit-learn, TensorFlow, Keras, OpenCV
 - 📚 Actively learning and exploring new technologies in the field of Data Science
 - 🌱 Organized multiple workshops for fellow students, participated in hackathons, and completed various online courses and certifications
 - ✨ Hobbies include Playing Chess ♟️, reading books 📖 and Swimming 🏊‍♂️ 
@@ -22,9 +22,13 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 
 - Python
 - R
+- C
+- C++
 - SQL
 - HTML
 - CSS
+- JavaScript
+- MongoDB
 - TensorFlow
 - Scikit-learn
 - Keras
