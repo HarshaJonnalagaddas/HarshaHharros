@@ -21,17 +21,16 @@ Passionate about leveraging data-driven insights to solve complex problems and d
 ## Skills
 
 - Python
-- R
-- C
-- C++
+- Java
+- R Programming
 - SQL
 - HTML
 - CSS
 - JavaScript
+- MySQL
 - MongoDB
-- TensorFlow
+- Pytorch
 - Scikit-learn
-- Keras
 - OpenCV
 - Deep Learning
 - Computer Vision
